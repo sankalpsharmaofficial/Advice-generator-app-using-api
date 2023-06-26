@@ -52,7 +52,8 @@ main{
 .advice-id{
     color: var(--Neon-Green);
     text-transform: uppercase;
-    word-spacing: 10px;
+    letter-spacing: 3px;
+    font-size: medium;;
 }
 
 /* Advice Text */
