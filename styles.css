@@ -16,22 +16,25 @@
 }
 
 /* Universal Selector */
-*{
+/* *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     font-family: "Manrope", sans-serif;
-}
+} */
 
 /* Html, Body */
 html,
 body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Manrope", sans-serif;
   height: 100vh;
   display: grid;
+  user-select: none;
   grid-template-rows: auto 0px;
-}
-body{
-    background-color: rgb(33,38,50);
+  background-color: rgb(33,38,50);
 }
 
 /* Main */
@@ -42,10 +45,10 @@ main{
     border-radius: 10px;
     text-align: center;
     background-color: var(--Dark-Grayish-Blue);
-    max-width: 550px;
+    max-width: 320px;
     width: fit-content;
     height: fit-content;
-    margin: auto 20px;
+    margin: 30px auto;
 }
 
 /* Advice Id */
