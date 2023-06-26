@@ -64,6 +64,6 @@ To see how you can add code snippets, see below:
 ## Author
 
 - Profile-Card - [Sankalp Sharma](https://sankalpsharmaofficial.github.io/)
-  -Website - [Sankalp Sharma](https://sankalpsharma.vercel.app/)
+- Website - [Sankalp Sharma](https://sankalpsharma.vercel.app/)
 - Frontend Mentor - [@sankalpsharmaofficial](https://www.frontendmentor.io/profile/sankalpsharmaofficial)
 - Twitter - [@sankalp0501](https://twitter.com/sankalp0501)
